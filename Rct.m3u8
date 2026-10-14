@@ -1,1 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1791987427-ac63da567a1e179df0b6e678a0af2896-0-e915fd88bcaad280774e1532bfe5cd86
