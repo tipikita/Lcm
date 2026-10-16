@@ -1,6 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=445000,RESOLUTION=512x288,CODECS="avc1.77.30, mp4a.40.5"
+https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1792158428-2dc5b36c3c1b33f2179ac2b59f78ff1d-0-3afde797f1d097a6281a52643bdd73c9
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=45000,CODECS="mp4a.40.5"
 https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1792158428-2dc5b36c3c1b33f2179ac2b59f78ff1d-0-3afde797f1d097a6281a52643bdd73c9
 
 #http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/289988.m3u8
