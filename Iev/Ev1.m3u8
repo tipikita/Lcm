@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://gvisiontv2.channell.my.id/ch/tch/huya.php/.flv?id=30805928
+https://proxy-b.rctiplus.id/live/mweb/mnctv/mnctv-sdi.m3u8?auth_key=1792158428-2dc5b36c3c1b33f2179ac2b59f78ff1d-0-3afde797f1d097a6281a52643bdd73c9
 
 #http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/289988.m3u8
