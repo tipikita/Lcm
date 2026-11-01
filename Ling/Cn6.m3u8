@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://193.47.62.44/hls/VUUU.m3u8
+https://www.rtmpcdn.com/live/6da4b11e-fef6-4773-8c01-a4d9ef3c8845.m3u8
